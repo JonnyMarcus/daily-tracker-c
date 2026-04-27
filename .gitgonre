@@ -1,0 +1,32 @@
+# executáveis
+*.exe
+*.out
+*.app
+
+# arquivos objeto
+*.o
+*.obj
+
+# bibliotecas
+*.a
+*.lib
+*.so
+*.dll
+
+# arquivos temporários
+*.tmp
+*.log
+
+# pasta de build (se usar no futuro)
+build/
+
+# arquivos do VSCode
+.vscode/
+
+# arquivos do sistema
+.DS_Store
+Thumbs.db
+
+# arquivos de dados (opcional)
+# se NÃO quiser subir suas tarefas
+data/tarefas.txt
